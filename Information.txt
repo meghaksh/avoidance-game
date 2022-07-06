@@ -1,0 +1,18 @@
+Core Gameplay:
+
+Player: square (movable), and camera which follows the player. 
+Give a name to Player : BunnyBoo
+Obstacles to avoid. 
+Change the color when player bump into any obstacle. 
+Ramps for the momentum of sphere obstacles, using gravity
+spinning obstacles
+
+Game design: 
+What can be a player experience?
+Careful? clever? Nah Nimble/agile
+
+Core Mechanic:
+Move and dodge obstacles
+
+Game Loop:
+Get from position A to B
